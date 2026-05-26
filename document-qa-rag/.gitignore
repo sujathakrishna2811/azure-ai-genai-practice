@@ -1,0 +1,25 @@
+This prevents secrets, environments, and temporary files from being pushed to GitHub.
+
+Recommended:
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
