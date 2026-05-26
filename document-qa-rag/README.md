@@ -58,37 +58,37 @@ Pandas Filter Queries
 
 Examples:
 
-Show customers with high monthly charges who churned
-List customers with short tenure
-Pandas Aggregation Queries
+- Show customers with high monthly charges who churned
+- List customers with short tenure
+- Pandas Aggregation Queries
 
 Examples:
 
-Average monthly charges by churn
-Count customers by contract type
-RAG Questions
+- Average monthly charges by churn
+- Count customers by contract type
+- RAG Questions
 
 Examples:
 
-Why do customers churn?
-What business actions can reduce churn?
+- Why do customers churn?
+- What business actions can reduce churn?
 
 ## 6. Streamlit User Interface
 
 The Streamlit app provides:
 
-Natural language Q&A
-Dynamic Pandas code generation
-AI explanations
-Embedding search debugging
-Chat history tracking
-Tech Stack
-Python
-Pandas
-NumPy
-Scikit-learn
-Azure OpenAI
-Streamlit
+- Natural language Q&A
+- Dynamic Pandas code generation
+- AI explanations
+- Embedding search debugging
+- Chat history tracking
+- Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Azure OpenAI
+- Streamlit
 
 
 Project Structure
