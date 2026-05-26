@@ -1,1 +1,8 @@
-
+openai
+pandas
+numpy
+scikit-learn
+streamlit
+python-dotenv
+azure-ai-ml
+azure-identity
