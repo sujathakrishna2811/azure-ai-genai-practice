@@ -12,7 +12,6 @@ This project demonstrates an end-to-end AI-powered Document Question & Answer (Q
 
 The application allows users to ask natural language questions about Telco Customer Churn data and receive AI-generated insights backed by retrieved data context.
 
----
 
 # Features
 
@@ -32,7 +31,6 @@ The notebook builds a reusable AI Q&A workflow using:
 - Prompt engineering
 - Structured AI responses
 
----
 
 ## 3. TF-IDF RAG
 
@@ -43,7 +41,6 @@ Implemented basic Retrieval-Augmented Generation using:
 
 This enables keyword-based retrieval of relevant customer records.
 
----
 
 ## 4. Embedding-Based Semantic RAG
 
@@ -51,12 +48,6 @@ Improved retrieval using:
 - text-embedding-3-small
 - Semantic vector similarity
 - Embedding-based chunk retrieval
-
-This allows semantic understanding of questions such as:
-
-```text
-customers with expensive plans who left
-
 
 
 ## 5. Dynamic Pandas + GenAI Hybrid Routing
